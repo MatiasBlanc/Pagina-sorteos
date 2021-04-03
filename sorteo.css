@@ -1,0 +1,10 @@
+.numero {
+    text-align: center;
+    font-size: 250px;
+    font-family: 'Lato';
+    color: rgb(241, 241, 241);
+    margin-top: 15%;
+}
+body {
+    background: rgb(199, 199, 199);
+}
